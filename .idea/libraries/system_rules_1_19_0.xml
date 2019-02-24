@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="system-rules-1.19.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/system-rules-1.19.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/commons-io-2.6-bin.zip!/commons-io-2.6/docs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/commons-io-2.6-src.zip!/commons-io-2.6-src/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/commons-io-2.6-src.zip!/commons-io-2.6-src/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
